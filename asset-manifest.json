@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/admin-dashboard-main/static/css/main.9d8b9545.css",
+    "main.js": "/admin-dashboard-main/static/js/main.621f1110.js",
+    "static/media/bigGraph.jpg": "/admin-dashboard-main/static/media/bigGraph.598c8adc931d52193fdb.jpg",
+    "static/media/bell.svg": "/admin-dashboard-main/static/media/bell.ec022b0a0f52618a353c2aabb9466357.svg",
+    "static/media/overview.svg": "/admin-dashboard-main/static/media/overview.50c66407f986e2adfeecabf67ccb1dca.svg",
+    "static/media/pending-orders.svg": "/admin-dashboard-main/static/media/pending-orders.73d3f1f13144561113712177692e0fbb.svg",
+    "static/media/reconciled-orders.svg": "/admin-dashboard-main/static/media/reconciled-orders.6849817d65c6576829f09de1740a557f.svg",
+    "static/media/all-orders.svg": "/admin-dashboard-main/static/media/all-orders.acc822a7ce9595029be82a9fa1ca1bc9.svg",
+    "static/media/search.svg": "/admin-dashboard-main/static/media/search.b165de01b73ae34fccb6227109e64950.svg",
+    "static/media/search-icon.svg": "/admin-dashboard-main/static/media/search-icon.bff3f9d0ee2ba7c0a0a6bd22ae185de5.svg",
+    "static/media/un-reconciled.svg": "/admin-dashboard-main/static/media/un-reconciled.d9ee4aa9fb761589b0a33d03613cc233.svg",
+    "static/media/reconciled.svg": "/admin-dashboard-main/static/media/reconciled.ff66e320615e900ecc42f6d706ffaaca.svg",
+    "static/media/all-payment.svg": "/admin-dashboard-main/static/media/all-payment.cd2d79a20429abcd50d5f898870e7c26.svg",
+    "static/media/profile.svg": "/admin-dashboard-main/static/media/profile.f4758fe526c828a0b2f92729462d8fd0.svg",
+    "static/media/stats.svg": "/admin-dashboard-main/static/media/stats.74fce15c66d8e69e5e6518e77780971d.svg",
+    "index.html": "/admin-dashboard-main/index.html",
+    "static/media/manual-payment.svg": "/admin-dashboard-main/static/media/manual-payment.7e1cb7f5b4072d23d763b7dfd54e6830.svg",
+    "main.9d8b9545.css.map": "/admin-dashboard-main/static/css/main.9d8b9545.css.map",
+    "main.621f1110.js.map": "/admin-dashboard-main/static/js/main.621f1110.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d8b9545.css",
+    "static/js/main.621f1110.js"
+  ]
+}
